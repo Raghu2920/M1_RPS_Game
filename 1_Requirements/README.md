@@ -10,7 +10,7 @@ If players choose the same weapon, neither win and the game is played again.
   This project can be implemented by using c language in both windows and linux os.  
   This project requires a random number generator function. 
 
-#Low level Requirements:
+# Low level Requirements:
   The Random number has to generate the numbers with in the specified range of number.
   The comparasion of the character from the player input and the computer generated has to be taken care.
 
@@ -31,7 +31,7 @@ If players choose the same weapon, neither win and the game is played again.
 
 # SWOT Analysis:
 
-If you and a friend are playing rock, paper, scissors..
+If you and a friend are playing rock, paper, scissors...
 1. What is the probability that your friend will throw a rock?
 2. What is the probability that your friend will not throw paper?
 Get together with a partner and play rock, paper, scissors. 
