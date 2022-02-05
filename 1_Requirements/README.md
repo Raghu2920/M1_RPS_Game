@@ -6,13 +6,13 @@ Paper covers Rock, so Paper wins
 If players choose the same weapon, neither win and the game is played again.
 
 
-# High Level Requirements:
-  This project can be implemented by using c language in both windows and linux os.  
-  This project requires a random number generator function. 
-
 # Low level Requirements:
   The Random number has to generate the numbers with in the specified range of number.
   The comparasion of the character from the player input and the computer generated has to be taken care.
+
+# High Level Requirements:
+  This project can be implemented by using c language in both windows and linux os.  
+  This project requires a random number generator function. 
 
 
 # 4W and 1H:
