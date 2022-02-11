@@ -1,13 +1,6 @@
 #include "unity.h"
 #include "header.h"
-void setUp()
-{
 
-}
-void teardown()
-{
-
-}
 void test_main(void)
 {
     char playerScore, compScore;
