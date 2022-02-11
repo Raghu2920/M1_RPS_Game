@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-int greater(char c1, char c2)
+int greater(char c1, c2)
 {
     if (c1 == c2)
     {
