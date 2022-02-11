@@ -15,6 +15,14 @@ int greater(char c1, char c2)
     {
         return 0;
     }
+        else if (c1 == 'r' && c2 == 'p')
+    {
+        return 1;
+    }
+    else if (c2 == 'r' && c1 == 'p')
+    {
+        return 0;
+    }
     else if (c1 == 's' && c2 == 'p')
     {
         return 1;
