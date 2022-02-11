@@ -8,3 +8,7 @@ A game called Rock-Paper-Scissors (RPS) involves two players simultaneously choo
 ![Code grade](https://api.codiga.io/project/31071/score/svg)
 
 ![Code grade](https://api.codiga.io/project/31071/status/svg)
+
+
+# Source Code credits:
+https://github.com/nani333175/Stepin_Rock-paper-scissor
