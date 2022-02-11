@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+//Rps random number generator
 int generateRandomNumber(int n);
 int greater(char c1, char c2);
 int main()
@@ -72,19 +72,19 @@ int main()
     if (playerScore > compScore)
     {
         printf("\n\t -------------------\n");
-        printf("\t| You Win the match |\n");
+        printf("\t| You Won |\n");
         printf("\t -------------------\n");
     }
     else if (playerScore < compScore)
     {
         printf("\n\t ------------------------\n");
-        printf("\t| Computer Win the match |\n");
+        printf("\t| Computer Won |\n");
         printf("\t ------------------------\n");
     }
     else
     {
         printf("\n\t -------------\n");
-        printf("\t| It's a draw |\n");
+        printf("\t| Match draw |\n");
         printf("\t -------------\n");
     }
 
