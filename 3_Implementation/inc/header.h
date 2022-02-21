@@ -74,12 +74,12 @@ int main()
         }
 
     }
-
+     //comparative acore decides who won the match
      assert(greater(playerScore,compScore)== 1);
-      printf("computer got it");
+      printf("computer won");
      assert(greater(playerScore,compScore)== -1);
-      printf("draw");
+      printf("match draw");
      assert(greater(playerScore,compScore)== 0);
-      printf("player got it");
+      printf("player won");
 
 }
