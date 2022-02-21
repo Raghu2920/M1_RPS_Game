@@ -11,8 +11,7 @@ and another certificate from sololearn(C programming for PBL Approach) has been 
 
 ## HACKEREATH
 
-![Hackerearth SS_Raghu](https://user-images.githubusercontent.com/60956504/152668426-73385eb8-0bf1-477c-9daf-6a4903215050.png)
-
+![image](https://user-images.githubusercontent.com/60956504/154939095-71f45f97-b146-45dd-b65e-456059284a66.png)
 ## GITHUB 
 
 ![Github Screenshot_Raghu](https://user-images.githubusercontent.com/60956504/152668475-1a77eb95-df30-427c-86d6-02ea12c96b9f.png)
