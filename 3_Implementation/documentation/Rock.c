@@ -33,7 +33,8 @@ int main()
         printf(" --------------------\n");
         printf("| Computer choose: %c |\n", compChar);
         printf(" --------------------\n\n");
-
+        //rock gets Computer win
+        //
         // compater character and increment the score
         if (greater(compChar, playerChar) == 1)
         {
