@@ -16,8 +16,8 @@
             ],
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x86",
-            "compilerPath": ""
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/MinGW/bin/gcc.exe"
         }
     ],
     "version": 4
