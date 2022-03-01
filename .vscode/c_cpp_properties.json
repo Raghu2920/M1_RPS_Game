@@ -5,7 +5,7 @@
             "includePath": [
                 "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0",
                 "C:\\MinGW\\include",
-                "${workspaceFolder}/3_Implementation/source",
+                "${workspaceFolder}/3_Implementation/src",
                 "C:/MinGW/lib/gcc/mingw32/6.3.0/include",
                 "${workspaceFolder}/3_Implementation/unity"
             ],
