@@ -19,7 +19,7 @@ int main()
         printf("Press 1 for Rock, Press 2 for Paper, Press 3 for Scissors\n\n");
         printf("\tPlayer's turn: ");
         scanf("%d", &temp);
-        
+        getchar();
         playerChar = dict[temp - 1];
         printf(" -----------------\n");
         printf("| You choose: %c   |\n", playerChar);
