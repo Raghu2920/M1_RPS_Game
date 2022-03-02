@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-int generateRandomNumber(int n);
+
 int greater(char c1, char c2);
 int main()
 {
@@ -32,10 +32,8 @@ int main()
         printf(" --------------------\n");
         printf("| Computer choose: %c |\n", compChar);
         printf(" --------------------\n\n");
-        //rock gets Computer win
-        //
-        // compater character and increment the score
-        if (greater(compChar, playerChar) == 1)
+   
+
         {
             compScore++;
             printf("\t\tComputer Got It!\n\n");
