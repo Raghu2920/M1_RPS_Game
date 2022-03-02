@@ -1341,7 +1341,7 @@ void UnityAssertEqualString(const char* expected,
                             const char* msg,
                             const UNITY_LINE_TYPE lineNumber)
 {
-    UNITY_UINT32 i;
+ 
 
     RETURN_IF_FAIL_OR_IGNORE;
 
