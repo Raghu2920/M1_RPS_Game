@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-
-int generateRandomNumber(int n);
 int greater(char c1, char c2);
 int main()
 {
@@ -35,7 +33,7 @@ int main()
         printf(" --------------------\n\n");
 
       
-        if (greater(compChar, playerChar) == 1)
+      
         {
             compScore++;
             printf("\t\tComputer Got It!\n\n");
