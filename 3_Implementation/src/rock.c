@@ -5,7 +5,7 @@
 int greater(char c1, char c2);
 int main()
 {
-    int playerScore = 0, compScore = 0, temp;
+
  
     char dict[] = {'r', 'p', 's'};
     printf("\tWelcome to the Rock Paper Scissors\n");
@@ -33,8 +33,7 @@ int main()
         printf(" --------------------\n\n");
 
       
-      
-        {
+
             compScore++;
             printf("\t\tComputer Got It!\n\n");
         }
