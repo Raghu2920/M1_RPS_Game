@@ -2,13 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-
-int generateRandomNumber(int n);
 int greater(char c1, char c2);
 int main()
 {
-    int playerScore = 0, compScore = 0, temp;
-    char playerChar, compChar;
+
+ 
     char dict[] = {'r', 'p', 's'};
     printf("\tWelcome to the Rock Paper Scissors\n");
     printf("\t----------------------------------\n\n");
@@ -34,9 +32,8 @@ int main()
         printf("| Computer choose: %c |\n", compChar);
         printf(" --------------------\n\n");
 
-        // compater character and increment the score
-        if (greater(compChar, playerChar) == 1)
-        {
+      
+
             compScore++;
             printf("\t\tComputer Got It!\n\n");
         }
