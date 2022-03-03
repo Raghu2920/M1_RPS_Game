@@ -1,5 +1,5 @@
-## some parts of the code are taken from my another github
+### some parts of the code are taken from my another github
 
-## Name : Nani 
-## Githublink: https://github.com/nani333175
+### Name : Nani 
+### Githublink: https://github.com/nani333175
 
